@@ -1,0 +1,3674 @@
+[
+  {
+    "matchId": 122838,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2023-08-18T18:30:00Z"
+  },
+  {
+    "matchId": 122839,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2023-08-19T13:30:00Z"
+  },
+  {
+    "matchId": 122840,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2023-08-19T13:30:00Z"
+  },
+  {
+    "matchId": 122841,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-08-19T13:30:00Z"
+  },
+  {
+    "matchId": 122842,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-08-19T13:30:00Z"
+  },
+  {
+    "matchId": 122843,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2023-08-19T13:30:00Z"
+  },
+  {
+    "matchId": 122844,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-08-19T16:30:00Z"
+  },
+  {
+    "matchId": 122845,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-08-20T13:30:00Z"
+  },
+  {
+    "matchId": 122846,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2023-08-20T15:30:00Z"
+  },
+  {
+    "matchId": 122847,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2023-08-25T18:30:00Z"
+  },
+  {
+    "matchId": 122848,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2023-08-26T13:30:00Z"
+  },
+  {
+    "matchId": 122849,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2023-08-26T13:30:00Z"
+  },
+  {
+    "matchId": 122850,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2023-08-26T13:30:00Z"
+  },
+  {
+    "matchId": 122851,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2023-08-26T13:30:00Z"
+  },
+  {
+    "matchId": 122852,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2023-08-26T13:30:00Z"
+  },
+  {
+    "matchId": 122853,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2023-08-26T16:30:00Z"
+  },
+  {
+    "matchId": 122854,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2023-08-27T13:30:00Z"
+  },
+  {
+    "matchId": 122855,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2023-08-27T15:30:00Z"
+  },
+  {
+    "matchId": 122856,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2023-09-01T18:30:00Z"
+  },
+  {
+    "matchId": 122857,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2023-09-02T13:30:00Z"
+  },
+  {
+    "matchId": 122858,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2023-09-02T13:30:00Z"
+  },
+  {
+    "matchId": 122859,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-09-02T13:30:00Z"
+  },
+  {
+    "matchId": 122860,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-09-02T13:30:00Z"
+  },
+  {
+    "matchId": 122861,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-09-02T13:30:00Z"
+  },
+  {
+    "matchId": 122862,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2023-09-02T16:30:00Z"
+  },
+  {
+    "matchId": 122863,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-09-03T13:30:00Z"
+  },
+  {
+    "matchId": 122864,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2023-09-03T15:30:00Z"
+  },
+  {
+    "matchId": 122865,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2023-09-15T18:30:00Z"
+  },
+  {
+    "matchId": 122866,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2023-09-16T13:30:00Z"
+  },
+  {
+    "matchId": 122867,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2023-09-16T13:30:00Z"
+  },
+  {
+    "matchId": 122868,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2023-09-16T13:30:00Z"
+  },
+  {
+    "matchId": 122869,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2023-09-16T13:30:00Z"
+  },
+  {
+    "matchId": 122870,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2023-09-16T13:30:00Z"
+  },
+  {
+    "matchId": 122871,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2023-09-16T16:30:00Z"
+  },
+  {
+    "matchId": 122872,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2023-09-17T13:30:00Z"
+  },
+  {
+    "matchId": 122873,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2023-09-17T15:30:00Z"
+  },
+  {
+    "matchId": 122874,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2023-09-22T18:30:00Z"
+  },
+  {
+    "matchId": 122875,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-09-23T13:30:00Z"
+  },
+  {
+    "matchId": 122876,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2023-09-23T13:30:00Z"
+  },
+  {
+    "matchId": 122877,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2023-09-23T13:30:00Z"
+  },
+  {
+    "matchId": 122878,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2023-09-23T13:30:00Z"
+  },
+  {
+    "matchId": 122879,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-09-23T13:30:00Z"
+  },
+  {
+    "matchId": 122880,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-09-23T16:30:00Z"
+  },
+  {
+    "matchId": 122881,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2023-09-24T13:30:00Z"
+  },
+  {
+    "matchId": 122882,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-09-24T15:30:00Z"
+  },
+  {
+    "matchId": 122883,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2023-09-29T18:30:00Z"
+  },
+  {
+    "matchId": 122884,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2023-09-30T13:30:00Z"
+  },
+  {
+    "matchId": 122885,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2023-09-30T13:30:00Z"
+  },
+  {
+    "matchId": 122886,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2023-09-30T13:30:00Z"
+  },
+  {
+    "matchId": 122887,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2023-09-30T13:30:00Z"
+  },
+  {
+    "matchId": 122888,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2023-09-30T13:30:00Z"
+  },
+  {
+    "matchId": 122889,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2023-09-30T16:30:00Z"
+  },
+  {
+    "matchId": 122890,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2023-10-01T13:30:00Z"
+  },
+  {
+    "matchId": 122891,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2023-10-01T15:30:00Z"
+  },
+  {
+    "matchId": 122892,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-10-06T18:30:00Z"
+  },
+  {
+    "matchId": 122893,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2023-10-07T13:30:00Z"
+  },
+  {
+    "matchId": 122894,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-10-07T13:30:00Z"
+  },
+  {
+    "matchId": 122895,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2023-10-07T13:30:00Z"
+  },
+  {
+    "matchId": 122896,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2023-10-07T13:30:00Z"
+  },
+  {
+    "matchId": 122897,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2023-10-07T16:30:00Z"
+  },
+  {
+    "matchId": 122898,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-10-08T13:30:00Z"
+  },
+  {
+    "matchId": 122899,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-10-08T15:30:00Z"
+  },
+  {
+    "matchId": 122900,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2023-10-08T17:30:00Z"
+  },
+  {
+    "matchId": 122901,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2023-10-20T18:30:00Z"
+  },
+  {
+    "matchId": 122902,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2023-10-21T13:30:00Z"
+  },
+  {
+    "matchId": 122903,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-10-21T13:30:00Z"
+  },
+  {
+    "matchId": 122904,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2023-10-21T13:30:00Z"
+  },
+  {
+    "matchId": 122905,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2023-10-21T13:30:00Z"
+  },
+  {
+    "matchId": 122906,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2023-10-21T13:30:00Z"
+  },
+  {
+    "matchId": 122907,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2023-10-21T16:30:00Z"
+  },
+  {
+    "matchId": 122908,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2023-10-22T13:30:00Z"
+  },
+  {
+    "matchId": 122909,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2023-10-22T15:30:00Z"
+  },
+  {
+    "matchId": 122910,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2023-10-28T13:30:00Z"
+  },
+  {
+    "matchId": 122911,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-10-28T16:30:00Z"
+  },
+  {
+    "matchId": 122912,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-10-29T16:30:00Z"
+  },
+  {
+    "matchId": 122913,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2023-10-29T14:30:00Z"
+  },
+  {
+    "matchId": 122914,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2023-10-28T13:30:00Z"
+  },
+  {
+    "matchId": 122915,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2023-10-28T13:30:00Z"
+  },
+  {
+    "matchId": 122916,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-10-27T18:30:00Z"
+  },
+  {
+    "matchId": 122917,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2023-10-28T13:30:00Z"
+  },
+  {
+    "matchId": 122918,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2023-10-28T13:30:00Z"
+  },
+  {
+    "matchId": 122919,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2023-11-04T17:30:00Z"
+  },
+  {
+    "matchId": 122920,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2023-11-04T14:30:00Z"
+  },
+  {
+    "matchId": 122921,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2023-11-04T14:30:00Z"
+  },
+  {
+    "matchId": 122922,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2023-11-05T14:30:00Z"
+  },
+  {
+    "matchId": 122923,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2023-11-04T14:30:00Z"
+  },
+  {
+    "matchId": 122924,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2023-11-04T14:30:00Z"
+  },
+  {
+    "matchId": 122925,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2023-11-04T14:30:00Z"
+  },
+  {
+    "matchId": 122926,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2023-11-05T16:30:00Z"
+  },
+  {
+    "matchId": 122927,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-11-03T19:30:00Z"
+  },
+  {
+    "matchId": 122928,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2023-11-11T14:30:00Z"
+  },
+  {
+    "matchId": 122929,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-11-12T18:30:00Z"
+  },
+  {
+    "matchId": 122930,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2023-11-12T14:30:00Z"
+  },
+  {
+    "matchId": 122931,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2023-11-10T19:30:00Z"
+  },
+  {
+    "matchId": 122932,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2023-11-12T16:30:00Z"
+  },
+  {
+    "matchId": 122933,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-11-11T17:30:00Z"
+  },
+  {
+    "matchId": 122934,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2023-11-11T14:30:00Z"
+  },
+  {
+    "matchId": 122935,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2023-11-11T14:30:00Z"
+  },
+  {
+    "matchId": 122936,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-11-11T14:30:00Z"
+  },
+  {
+    "matchId": 122937,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2023-11-25T14:30:00Z"
+  },
+  {
+    "matchId": 122938,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2023-11-25T14:30:00Z"
+  },
+  {
+    "matchId": 122939,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2023-11-25T14:30:00Z"
+  },
+  {
+    "matchId": 122940,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2023-11-25T17:30:00Z"
+  },
+  {
+    "matchId": 122941,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2023-11-25T14:30:00Z"
+  },
+  {
+    "matchId": 122942,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2023-11-24T19:30:00Z"
+  },
+  {
+    "matchId": 122943,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-11-26T16:30:00Z"
+  },
+  {
+    "matchId": 122944,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2023-11-25T14:30:00Z"
+  },
+  {
+    "matchId": 122945,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-11-26T14:30:00Z"
+  },
+  {
+    "matchId": 122946,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-01-24T19:30:00Z"
+  },
+  {
+    "matchId": 122947,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2023-12-02T14:30:00Z"
+  },
+  {
+    "matchId": 122948,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2023-12-03T16:30:00Z"
+  },
+  {
+    "matchId": 122949,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-12-03T14:30:00Z"
+  },
+  {
+    "matchId": 122950,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2023-12-02T14:30:00Z"
+  },
+  {
+    "matchId": 122951,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2023-12-02T14:30:00Z"
+  },
+  {
+    "matchId": 122952,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2023-12-03T18:30:00Z"
+  },
+  {
+    "matchId": 122953,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2023-12-02T17:30:00Z"
+  },
+  {
+    "matchId": 122954,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-12-01T19:30:00Z"
+  },
+  {
+    "matchId": 122955,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2023-12-09T17:30:00Z"
+  },
+  {
+    "matchId": 122956,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2023-12-09T14:30:00Z"
+  },
+  {
+    "matchId": 122957,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2023-12-09T14:30:00Z"
+  },
+  {
+    "matchId": 122958,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-12-09T14:30:00Z"
+  },
+  {
+    "matchId": 122959,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-12-10T16:30:00Z"
+  },
+  {
+    "matchId": 122960,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-12-08T19:30:00Z"
+  },
+  {
+    "matchId": 122961,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2023-12-09T14:30:00Z"
+  },
+  {
+    "matchId": 122962,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2023-12-10T14:30:00Z"
+  },
+  {
+    "matchId": 122963,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2023-12-09T14:30:00Z"
+  },
+  {
+    "matchId": 122964,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2023-12-17T18:30:00Z"
+  },
+  {
+    "matchId": 122965,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2023-12-16T17:30:00Z"
+  },
+  {
+    "matchId": 122966,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-12-17T14:30:00Z"
+  },
+  {
+    "matchId": 122967,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2023-12-17T16:30:00Z"
+  },
+  {
+    "matchId": 122968,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2023-12-16T14:30:00Z"
+  },
+  {
+    "matchId": 122969,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2023-12-15T19:30:00Z"
+  },
+  {
+    "matchId": 122970,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2023-12-16T14:30:00Z"
+  },
+  {
+    "matchId": 122971,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2023-12-16T14:30:00Z"
+  },
+  {
+    "matchId": 122972,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2023-12-16T14:30:00Z"
+  },
+  {
+    "matchId": 122973,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2023-12-19T19:30:00Z"
+  },
+  {
+    "matchId": 122974,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2023-12-20T17:30:00Z"
+  },
+  {
+    "matchId": 122975,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2023-12-20T19:30:00Z"
+  },
+  {
+    "matchId": 122976,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2023-12-20T19:30:00Z"
+  },
+  {
+    "matchId": 122977,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2023-12-20T19:30:00Z"
+  },
+  {
+    "matchId": 122978,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2023-12-19T19:30:00Z"
+  },
+  {
+    "matchId": 122979,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2023-12-19T17:30:00Z"
+  },
+  {
+    "matchId": 122980,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2023-12-20T19:30:00Z"
+  },
+  {
+    "matchId": 122981,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2023-12-20T19:30:00Z"
+  },
+  {
+    "matchId": 122982,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-01-12T19:30:00Z"
+  },
+  {
+    "matchId": 122983,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-01-13T14:30:00Z"
+  },
+  {
+    "matchId": 122984,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-01-13T14:30:00Z"
+  },
+  {
+    "matchId": 122985,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-01-13T14:30:00Z"
+  },
+  {
+    "matchId": 122986,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-01-14T16:30:00Z"
+  },
+  {
+    "matchId": 122987,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-01-13T14:30:00Z"
+  },
+  {
+    "matchId": 122988,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-01-14T14:30:00Z"
+  },
+  {
+    "matchId": 122989,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-01-13T14:30:00Z"
+  },
+  {
+    "matchId": 122990,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-01-13T17:30:00Z"
+  },
+  {
+    "matchId": 122991,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-01-21T14:30:00Z"
+  },
+  {
+    "matchId": 122992,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-01-20T14:30:00Z"
+  },
+  {
+    "matchId": 122993,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-02-07T17:30:00Z"
+  },
+  {
+    "matchId": 122994,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-01-20T17:30:00Z"
+  },
+  {
+    "matchId": 122995,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-01-20T14:30:00Z"
+  },
+  {
+    "matchId": 122996,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-01-20T14:30:00Z"
+  },
+  {
+    "matchId": 122997,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-01-20T14:30:00Z"
+  },
+  {
+    "matchId": 122998,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-01-20T14:30:00Z"
+  },
+  {
+    "matchId": 122999,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-01-21T16:30:00Z"
+  },
+  {
+    "matchId": 123000,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-01-27T14:30:00Z"
+  },
+  {
+    "matchId": 123001,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-01-27T14:30:00Z"
+  },
+  {
+    "matchId": 123002,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2024-01-27T14:30:00Z"
+  },
+  {
+    "matchId": 123003,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2024-01-26T19:30:00Z"
+  },
+  {
+    "matchId": 123004,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-01-27T17:30:00Z"
+  },
+  {
+    "matchId": 123005,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2024-01-27T14:30:00Z"
+  },
+  {
+    "matchId": 123006,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2024-01-28T16:30:00Z"
+  },
+  {
+    "matchId": 123007,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-01-27T14:30:00Z"
+  },
+  {
+    "matchId": 123008,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-01-28T14:30:00Z"
+  },
+  {
+    "matchId": 123009,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-02-02T19:30:00Z"
+  },
+  {
+    "matchId": 123010,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-02-04T16:30:00Z"
+  },
+  {
+    "matchId": 123011,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-02-03T14:30:00Z"
+  },
+  {
+    "matchId": 123012,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-02-03T17:30:00Z"
+  },
+  {
+    "matchId": 123013,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-02-03T14:30:00Z"
+  },
+  {
+    "matchId": 123014,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-02-04T14:30:00Z"
+  },
+  {
+    "matchId": 123015,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-02-03T14:30:00Z"
+  },
+  {
+    "matchId": 123016,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-02-03T14:30:00Z"
+  },
+  {
+    "matchId": 123017,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-02-03T14:30:00Z"
+  },
+  {
+    "matchId": 123018,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-02-10T17:30:00Z"
+  },
+  {
+    "matchId": 123019,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-02-10T14:30:00Z"
+  },
+  {
+    "matchId": 123020,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2024-02-09T19:30:00Z"
+  },
+  {
+    "matchId": 123021,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-02-10T14:30:00Z"
+  },
+  {
+    "matchId": 123022,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2024-02-11T14:30:00Z"
+  },
+  {
+    "matchId": 123023,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2024-02-11T16:30:00Z"
+  },
+  {
+    "matchId": 123024,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2024-02-10T14:30:00Z"
+  },
+  {
+    "matchId": 123025,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-02-10T14:30:00Z"
+  },
+  {
+    "matchId": 123026,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-02-10T14:30:00Z"
+  },
+  {
+    "matchId": 123027,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-02-18T16:30:00Z"
+  },
+  {
+    "matchId": 123028,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-02-17T14:30:00Z"
+  },
+  {
+    "matchId": 123029,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-02-17T14:30:00Z"
+  },
+  {
+    "matchId": 123030,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-02-17T14:30:00Z"
+  },
+  {
+    "matchId": 123031,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-02-18T14:30:00Z"
+  },
+  {
+    "matchId": 123032,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-02-17T17:30:00Z"
+  },
+  {
+    "matchId": 123033,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-02-16T19:30:00Z"
+  },
+  {
+    "matchId": 123034,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-02-17T14:30:00Z"
+  },
+  {
+    "matchId": 123035,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-02-17T14:30:00Z"
+  },
+  {
+    "matchId": 123036,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-02-24T17:30:00Z"
+  },
+  {
+    "matchId": 123037,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2024-02-25T18:30:00Z"
+  },
+  {
+    "matchId": 123038,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-02-25T14:30:00Z"
+  },
+  {
+    "matchId": 123039,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2024-02-23T19:30:00Z"
+  },
+  {
+    "matchId": 123040,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2024-02-24T14:30:00Z"
+  },
+  {
+    "matchId": 123041,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-02-25T16:30:00Z"
+  },
+  {
+    "matchId": 123042,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2024-02-24T14:30:00Z"
+  },
+  {
+    "matchId": 123043,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-02-24T14:30:00Z"
+  },
+  {
+    "matchId": 123044,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-02-24T14:30:00Z"
+  },
+  {
+    "matchId": 123045,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-03-01T19:30:00Z"
+  },
+  {
+    "matchId": 123046,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-03-02T14:30:00Z"
+  },
+  {
+    "matchId": 123047,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-03-02T14:30:00Z"
+  },
+  {
+    "matchId": 123048,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-03-03T14:30:00Z"
+  },
+  {
+    "matchId": 123049,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-03-02T14:30:00Z"
+  },
+  {
+    "matchId": 123050,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-03-02T14:30:00Z"
+  },
+  {
+    "matchId": 123051,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-03-03T16:30:00Z"
+  },
+  {
+    "matchId": 123052,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-03-02T14:30:00Z"
+  },
+  {
+    "matchId": 123053,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-03-02T17:30:00Z"
+  },
+  {
+    "matchId": 123054,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-03-09T17:30:00Z"
+  },
+  {
+    "matchId": 123055,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-03-08T19:30:00Z"
+  },
+  {
+    "matchId": 123056,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2024-03-10T14:30:00Z"
+  },
+  {
+    "matchId": 123057,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-03-10T18:30:00Z"
+  },
+  {
+    "matchId": 123058,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2024-03-09T14:30:00Z"
+  },
+  {
+    "matchId": 123059,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2024-03-09T14:30:00Z"
+  },
+  {
+    "matchId": 123060,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-03-10T16:30:00Z"
+  },
+  {
+    "matchId": 123061,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-03-09T14:30:00Z"
+  },
+  {
+    "matchId": 123062,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-03-09T14:30:00Z"
+  },
+  {
+    "matchId": 123063,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-03-16T14:30:00Z"
+  },
+  {
+    "matchId": 123064,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-03-15T19:30:00Z"
+  },
+  {
+    "matchId": 123065,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-03-17T14:30:00Z"
+  },
+  {
+    "matchId": 123066,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-03-17T16:30:00Z"
+  },
+  {
+    "matchId": 123067,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-03-16T14:30:00Z"
+  },
+  {
+    "matchId": 123068,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-03-16T14:30:00Z"
+  },
+  {
+    "matchId": 123069,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2024-03-16T14:30:00Z"
+  },
+  {
+    "matchId": 123070,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-03-16T14:30:00Z"
+  },
+  {
+    "matchId": 123071,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-03-16T17:30:00Z"
+  },
+  {
+    "matchId": 123072,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-03-30T17:30:00Z"
+  },
+  {
+    "matchId": 123073,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-03-30T14:30:00Z"
+  },
+  {
+    "matchId": 123074,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2024-03-30T14:30:00Z"
+  },
+  {
+    "matchId": 123075,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-03-30T14:30:00Z"
+  },
+  {
+    "matchId": 123076,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2024-03-30T14:30:00Z"
+  },
+  {
+    "matchId": 123077,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2024-03-31T13:30:00Z"
+  },
+  {
+    "matchId": 123078,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-03-30T14:30:00Z"
+  },
+  {
+    "matchId": 123079,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-03-31T15:30:00Z"
+  },
+  {
+    "matchId": 123080,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-03-31T17:30:00Z"
+  },
+  {
+    "matchId": 123081,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-04-06T13:30:00Z"
+  },
+  {
+    "matchId": 123082,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-04-06T13:30:00Z"
+  },
+  {
+    "matchId": 123083,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-04-06T13:30:00Z"
+  },
+  {
+    "matchId": 123084,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-04-07T15:30:00Z"
+  },
+  {
+    "matchId": 123085,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-04-05T18:30:00Z"
+  },
+  {
+    "matchId": 123086,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2024-04-06T13:30:00Z"
+  },
+  {
+    "matchId": 123087,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-04-07T13:30:00Z"
+  },
+  {
+    "matchId": 123088,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-04-06T16:30:00Z"
+  },
+  {
+    "matchId": 123089,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-04-06T13:30:00Z"
+  },
+  {
+    "matchId": 123090,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-04-13T13:30:00Z"
+  },
+  {
+    "matchId": 123091,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-04-12T18:30:00Z"
+  },
+  {
+    "matchId": 123092,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2024-04-14T13:30:00Z"
+  },
+  {
+    "matchId": 123093,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-04-13T16:30:00Z"
+  },
+  {
+    "matchId": 123094,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-04-13T13:30:00Z"
+  },
+  {
+    "matchId": 123095,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2024-04-13T13:30:00Z"
+  },
+  {
+    "matchId": 123096,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-04-13T13:30:00Z"
+  },
+  {
+    "matchId": 123097,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-04-14T15:30:00Z"
+  },
+  {
+    "matchId": 123098,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-04-13T13:30:00Z"
+  },
+  {
+    "matchId": 123099,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-04-20T16:30:00Z"
+  },
+  {
+    "matchId": 123100,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-04-20T13:30:00Z"
+  },
+  {
+    "matchId": 123101,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-04-21T15:30:00Z"
+  },
+  {
+    "matchId": 123102,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2024-04-21T17:30:00Z"
+  },
+  {
+    "matchId": 123103,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-04-20T13:30:00Z"
+  },
+  {
+    "matchId": 123104,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2024-04-20T13:30:00Z"
+  },
+  {
+    "matchId": 123105,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-04-19T18:30:00Z"
+  },
+  {
+    "matchId": 123106,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-04-21T13:30:00Z"
+  },
+  {
+    "matchId": 123107,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-04-20T13:30:00Z"
+  },
+  {
+    "matchId": 123108,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-04-27T13:30:00Z"
+  },
+  {
+    "matchId": 123109,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-04-28T13:30:00Z"
+  },
+  {
+    "matchId": 123110,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-04-27T13:30:00Z"
+  },
+  {
+    "matchId": 123111,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-04-27T13:30:00Z"
+  },
+  {
+    "matchId": 123112,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2024-04-28T15:30:00Z"
+  },
+  {
+    "matchId": 123113,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-04-26T18:30:00Z"
+  },
+  {
+    "matchId": 123114,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-04-27T13:30:00Z"
+  },
+  {
+    "matchId": 123115,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-04-27T16:30:00Z"
+  },
+  {
+    "matchId": 123116,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-04-28T17:30:00Z"
+  },
+  {
+    "matchId": 123117,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-05-04T13:30:00Z"
+  },
+  {
+    "matchId": 123118,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-05-03T18:30:00Z"
+  },
+  {
+    "matchId": 123119,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2024-05-04T16:30:00Z"
+  },
+  {
+    "matchId": 123120,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-05-05T15:30:00Z"
+  },
+  {
+    "matchId": 123121,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2024-05-05T17:30:00Z"
+  },
+  {
+    "matchId": 123122,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-05-04T13:30:00Z"
+  },
+  {
+    "matchId": 123123,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2024-05-05T13:30:00Z"
+  },
+  {
+    "matchId": 123124,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-05-04T13:30:00Z"
+  },
+  {
+    "matchId": 123125,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-05-04T13:30:00Z"
+  },
+  {
+    "matchId": 123126,
+    "homeSquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "awaySquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "scheduledDate": "2024-05-11T13:30:00Z"
+  },
+  {
+    "matchId": 123127,
+    "homeSquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "awaySquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "scheduledDate": "2024-05-12T17:30:00Z"
+  },
+  {
+    "matchId": 123128,
+    "homeSquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "awaySquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "scheduledDate": "2024-05-11T13:30:00Z"
+  },
+  {
+    "matchId": 123129,
+    "homeSquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "awaySquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "scheduledDate": "2024-05-12T15:30:00Z"
+  },
+  {
+    "matchId": 123130,
+    "homeSquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "awaySquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "scheduledDate": "2024-05-12T13:30:00Z"
+  },
+  {
+    "matchId": 123131,
+    "homeSquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "awaySquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "scheduledDate": "2024-05-11T13:30:00Z"
+  },
+  {
+    "matchId": 123132,
+    "homeSquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "awaySquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "scheduledDate": "2024-05-10T18:30:00Z"
+  },
+  {
+    "matchId": 123133,
+    "homeSquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "awaySquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "scheduledDate": "2024-05-11T13:30:00Z"
+  },
+  {
+    "matchId": 123134,
+    "homeSquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "awaySquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "scheduledDate": "2024-05-11T16:30:00Z"
+  },
+  {
+    "matchId": 123135,
+    "homeSquad": {
+      "id": 31,
+      "name": "TSG 1899 Hoffenheim"
+    },
+    "awaySquad": {
+      "id": 33,
+      "name": "FC Bayern München"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  },
+  {
+    "matchId": 123136,
+    "homeSquad": {
+      "id": 35,
+      "name": "Eintracht Frankfurt"
+    },
+    "awaySquad": {
+      "id": 37,
+      "name": "RasenBallsport Leipzig"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  },
+  {
+    "matchId": 123137,
+    "homeSquad": {
+      "id": 446,
+      "name": "1. FC Union Berlin"
+    },
+    "awaySquad": {
+      "id": 34,
+      "name": "SC Freiburg"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  },
+  {
+    "matchId": 123138,
+    "homeSquad": {
+      "id": 30,
+      "name": "VfL Wolfsburg"
+    },
+    "awaySquad": {
+      "id": 42,
+      "name": "1. FSV Mainz 05"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  },
+  {
+    "matchId": 123139,
+    "homeSquad": {
+      "id": 46,
+      "name": "VfB Stuttgart"
+    },
+    "awaySquad": {
+      "id": 32,
+      "name": "Borussia Mönchengladbach"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  },
+  {
+    "matchId": 123140,
+    "homeSquad": {
+      "id": 432,
+      "name": "1. FC Heidenheim 1846"
+    },
+    "awaySquad": {
+      "id": 27,
+      "name": "1. FC Köln"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  },
+  {
+    "matchId": 123141,
+    "homeSquad": {
+      "id": 38,
+      "name": "SV Werder Bremen"
+    },
+    "awaySquad": {
+      "id": 416,
+      "name": "VfL Bochum"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  },
+  {
+    "matchId": 123142,
+    "homeSquad": {
+      "id": 41,
+      "name": "Bayer 04 Leverkusen"
+    },
+    "awaySquad": {
+      "id": 39,
+      "name": "FC Augsburg"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  },
+  {
+    "matchId": 123143,
+    "homeSquad": {
+      "id": 29,
+      "name": "Borussia Dortmund"
+    },
+    "awaySquad": {
+      "id": 36,
+      "name": "SV Darmstadt 98"
+    },
+    "scheduledDate": "2024-05-18T13:30:00Z"
+  }
+]
